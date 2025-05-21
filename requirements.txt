@@ -1,0 +1,7 @@
+feedparser
+pandas
+matplotlib
+seaborn
+schedule
+flask
+langdetect
